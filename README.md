@@ -1,5 +1,5 @@
 # deno_make_table
-Make csv to ascii table.
+Make csv to table.
 
 ## Usage
 
