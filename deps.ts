@@ -1,3 +1,2 @@
 export { Table } from "https://deno.land/x/cliffy@v0.25.7/table/mod.ts";
-export { assertEquals } from "https://deno.land/std@0.175.0/testing/asserts.ts";
-export { join } from "https://deno.land/std@0.175.0/path/mod.ts";
+export { assertSnapshot } from "https://deno.land/std@0.175.0/testing/snapshot.ts";
